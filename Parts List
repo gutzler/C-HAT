@@ -1,0 +1,17 @@
+Housing: GoPro or similar action camera housing (I use cheap knockoff versions of the Hero 8 housing from Amazon)
+Battery: Sparkfun 2600 mAh 18650 Li-ion fits perfectly into the GoPro housing
+    https://www.sparkfun.com/products/13189
+Arduino boards and sensors:
+  Adafruit Feather 32u4 Adalogger
+    https://www.adafruit.com/product/2795
+  Adafruit DS3231 Precision RTC Feather Wing
+    https://www.adafruit.com/product/3028
+  Adafruit LSM303AGR accelerometer and magnetometer breakout
+    https://www.adafruit.com/product/4413
+Analog sensors:
+  TCRT5000 IR emitter/detector pair
+    https://www.digikey.com/en/products/detail/vishay-semiconductor-opto-division/TCRT5000L/1681168
+  TMP36 temperature sensor
+    https://www.digikey.com/en/products/detail/analog-devices-inc/TMP36GT9Z/820404
+  HW5P phototransistor
+    https://www.adafruit.com/product/2831
