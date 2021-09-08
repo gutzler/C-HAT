@@ -1,5 +1,6 @@
 Housing: GoPro or similar action camera housing (I use cheap knockoff versions of the Hero 8 housing from Amazon)
-Battery: Sparkfun 2600 mAh 18650 Li-ion fits perfectly into the GoPro housing
+    Need to knock the lens out to let the IR sensor see outside
+Battery: Sparkfun 2600 mAh 18650 Li-ion (fits perfectly into the GoPro housing)
     https://www.sparkfun.com/products/13189
 Arduino boards and sensors:
   Adafruit Feather 32u4 Adalogger
@@ -15,3 +16,8 @@ Analog sensors:
     https://www.digikey.com/en/products/detail/analog-devices-inc/TMP36GT9Z/820404
   HW5P phototransistor
     https://www.adafruit.com/product/2831
+Miscellaneous parts:
+    2 x 10kΩ resistors
+    1 x 100Ω resistor
+    1 x JST-PH connector (from battery to board)
+    West System epoxy (or similar - for sealing the housing after removing the lens and adding sensors)
