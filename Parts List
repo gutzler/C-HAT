@@ -21,3 +21,6 @@ Miscellaneous parts:
     1 x 100Ω resistor
     1 x JST-PH connector (from battery to board)
     West System epoxy (or similar - for sealing the housing after removing the lens and adding sensors)
+
+
+The whole package uses approximately 33 mA/hr, based on a few 80-hour long files using the 2600 mAh batteries in cold (5º C) water.
