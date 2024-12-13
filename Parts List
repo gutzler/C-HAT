@@ -7,20 +7,25 @@ Arduino boards and sensors:
     https://www.adafruit.com/product/2795
   Adafruit DS3231 Precision RTC Feather Wing
     https://www.adafruit.com/product/3028
-  Adafruit LSM303AGR accelerometer and magnetometer breakout
-    https://www.adafruit.com/product/4413
+  Adafruit LSM6DS3TR-C + LIS3MDL accelerometer and magnetometer breakout
+    https://www.adafruit.com/product/5543
+    (originally I used the Adafruit LSM6DS33+LIS3MDL (https://www.adafruit.com/product/4485) but that is no longer produced)
 Analog sensors:
   TCRT5000 IR emitter/detector pair
     https://www.digikey.com/en/products/detail/vishay-semiconductor-opto-division/TCRT5000L/1681168
+  DRV5053 linear Hall effect sensor
+    https://www.digikey.com/en/products/detail/texas-instruments/DRV5053EAQLPGM/5051652
   TMP36 temperature sensor
     https://www.digikey.com/en/products/detail/analog-devices-inc/TMP36GT9Z/820404
   HW5P phototransistor
     https://www.adafruit.com/product/2831
 Miscellaneous parts:
-    2 x 10kΩ resistors
-    1 x 100Ω resistor
-    1 x JST-PH connector (from battery to board)
-    West System epoxy (or similar - for sealing the housing after removing the lens and adding sensors)
+  small rare earth magnet to attach to mandible - corresponds with Hall effect sensor
+        https://www.kjmagnetics.com/proddetail.asp?prod=B112
+  2 x 10kΩ resistors
+  1 x 100Ω resistor
+  1 x JST-PH connector (from battery to board)
+  West System epoxy (or similar - for sealing the housing after removing the lens and adding sensors)
 
 
-The whole package uses approximately 33 mA/hr, based on a few 80-hour long files using the 2600 mAh batteries in cold (5º C) water.
+The whole package uses approximately 37-40 mA/hr, based on 62-72 hour runtimes using the 2600 mAh batteries in 15º C water.
