@@ -1,5 +1,5 @@
 /*Crustacean HAT Datalogger
- * (Heart and Activity Trackerr)
+ * (Heart and Activity Tracker)
  * v2.4 2021-10-7
  * Ben Gutzler bgutzler@gmail.com
  * Uses Adafruit Feather Adalogger, Adafruit DS3231 Precision RTC and LSM303 compass/accelerometer
