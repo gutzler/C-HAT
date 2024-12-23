@@ -1,4 +1,4 @@
-/*Lobster HAT Datalogger
+/*Crustacean HAT Datalogger
  * (Heart and Activity Tracker - now with Hall Effect sensor)
  * v3.2 2024-12-23
  * Ben Gutzler bgutzler@gmail.com
