@@ -10,6 +10,16 @@ Arduino-based with substantial use of code snippets from Adafruit example librar
 ## Basic usage
 For basic usage and understanding of the process, see the readme for the main C-HAT repo (https://github.com/gutzler/C-HAT). This feeding branch repo assumes basic familiarity with the system.
 
+![Banner Image 1600](https://github.com/user-attachments/assets/2d00b119-5a44-46f0-9e76-be0a6cbf01bf)
+### Attachment locations (right image)
+  Md: Mandible (thin black outline)
+
+  HE: Hall effect sensor (white outline; on wire lead, attached to side of carapace near mouth with superglue and tape)
+
+  M: Magnet (thick black outline; glued directly to mandible using superglue/UV cure glue)
+
+
+
 ### Important tips
 - The Hall effect sensor is sensitive to polarity of the magnet - so swings may be positive or negative from a baseline. It's also a very short-range sensor and aligning the sensor with the magnet to ensure good data is a challenge. Practice and testing is going to be important in understanding how to set it up to succeed.
 - Consider the shape of the magnetic field with whatever magnet used. I like bar-shaped magnets with through-thickness (axial) polarization to maximize the chance of getting a good signal.
