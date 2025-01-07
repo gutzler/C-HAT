@@ -12,11 +12,11 @@ For basic usage and understanding of the process, see the readme for the main C-
 
 ![Banner Image 1600](https://github.com/user-attachments/assets/2d00b119-5a44-46f0-9e76-be0a6cbf01bf)
 ### Attachment locations (right image)
-  Md: Mandible (thin black outline)
+- Md: Mandible (thin black outline)
 
-  HE: Hall effect sensor (white outline; on wire lead, attached to side of carapace near mouth with superglue and tape)
+- HE: Hall effect sensor (white outline; on wire lead, attached to side of carapace near mouth with superglue and tape)
 
-  M: Magnet (thick black outline; glued directly to mandible using superglue/UV cure glue)
+- M: Magnet (thick black outline; glued directly to mandible using superglue/UV cure glue)
 
 
 
